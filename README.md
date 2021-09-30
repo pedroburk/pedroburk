@@ -3,9 +3,4 @@
 - 🌱 Estou aprendendo com o professor Pietro ...
 - 💞️ Estou procurando colaborar com um novo projeto ...
 - 📫 Pode me encontrar aqui...
-- 👋 Até breve.
-
-<!---
-pedroburk/pedroburk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Até breve e bons estudos.
